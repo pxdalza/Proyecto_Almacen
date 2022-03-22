@@ -15,10 +15,12 @@ namespace App.Dl.DALC
     public class ProductoDALC : ICRUD<ProductoBE>
     {
 
+
         private String cnxStr = ConfigurationManager.ConnectionStrings["cnxString"].ConnectionString;
 
         public bool Add(ProductoBE obj)
         {
+
             bool state = false;
 
             try
