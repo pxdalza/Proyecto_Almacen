@@ -25,11 +25,14 @@ namespace App.Dl.DALC
 
             try
             {
+            
                 using (SqlConnection cn = new SqlConnection(cnxStr))
                 {
+                
                     SqlCommand cmd= new SqlCommand("SP_Insert_Product", cn);
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.CommandTimeout = 600;
+                    
                     //se agregan parametros
                     AddParameters(ref cmd, obj);
 
@@ -50,6 +53,7 @@ namespace App.Dl.DALC
         public bool Delete(ProductoBE obj)
         {
             bool state = false;
+
 
             using (SqlConnection cn = new SqlConnection(cnxStr))
             {
