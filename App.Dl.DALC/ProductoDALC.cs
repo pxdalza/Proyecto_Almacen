@@ -71,8 +71,8 @@ namespace App.Dl.DALC
                 cn.Open();
                 
                 cmd.ExecuteNonQuery();
-
                 state = true;
+                
                 cn.Close();
                 
             }
