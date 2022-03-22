@@ -59,14 +59,19 @@ namespace App.Dl.DALC
             {
 
                 SqlCommand cmd = new SqlCommand("SP_Delete_Product", cn);
+                
                 cmd.CommandType = CommandType.StoredProcedure;
+                
                 cmd.CommandTimeout = 600;
+                
                 cmd.Parameters.Add("@ProductId", SqlDbType.Int).Value = obj.ProductoId;
 
                 cn.Open();
                 
                 cmd.ExecuteNonQuery();
+                
                 state = true;
+                
                 cn.Close();
                 
             }
