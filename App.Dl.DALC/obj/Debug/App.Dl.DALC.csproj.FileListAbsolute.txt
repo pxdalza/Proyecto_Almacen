@@ -1,0 +1,13 @@
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.Dl.DALC.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.Dl.DALC.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.BL.BE.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.FL.Extensions.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.FL.Interfaces.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.BL.BE.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.FL.Extensions.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\bin\Debug\App.FL.Interfaces.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\obj\Debug\App.Dl.DALC.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\obj\Debug\App.Dl.DALC.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\obj\Debug\App.Dl.DALC.csproj.CopyComplete
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\obj\Debug\App.Dl.DALC.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.Dl.DALC\obj\Debug\App.Dl.DALC.pdb

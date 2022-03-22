@@ -1,0 +1,6 @@
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Interfaces\bin\Debug\App.FL.Interfaces.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Interfaces\bin\Debug\App.FL.Interfaces.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Interfaces\obj\Debug\App.FL.Interfaces.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Interfaces\obj\Debug\App.FL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Interfaces\obj\Debug\App.FL.Interfaces.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Interfaces\obj\Debug\App.FL.Interfaces.pdb

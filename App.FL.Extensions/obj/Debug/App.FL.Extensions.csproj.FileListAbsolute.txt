@@ -1,0 +1,6 @@
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Extensions\bin\Debug\App.FL.Extensions.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Extensions\bin\Debug\App.FL.Extensions.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Extensions\obj\Debug\App.FL.Extensions.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Extensions\obj\Debug\App.FL.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Extensions\obj\Debug\App.FL.Extensions.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.FL.Extensions\obj\Debug\App.FL.Extensions.pdb

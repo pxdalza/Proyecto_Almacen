@@ -1,0 +1,15 @@
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.BL.BC.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.BL.BC.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.BL.BE.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.Dl.DALC.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.FL.Interfaces.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.FL.Extensions.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.BL.BE.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.Dl.DALC.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.FL.Interfaces.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\bin\Debug\App.FL.Extensions.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\obj\Debug\App.BL.BC.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\obj\Debug\App.BL.BC.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\obj\Debug\App.BL.BC.csproj.CopyComplete
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\obj\Debug\App.BL.BC.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Project\Almacen_Productos\App.BL.BC\obj\Debug\App.BL.BC.pdb
