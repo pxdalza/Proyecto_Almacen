@@ -53,9 +53,12 @@ namespace App.Dl.DALC
 
             using (SqlConnection cn = new SqlConnection(cnxStr))
             {
+
                 SqlCommand cmd = new SqlCommand("SP_Delete_Product", cn);
                 cmd.CommandType = CommandType.StoredProcedure;
+
                 cmd.CommandTimeout = 600;
+
                 cmd.Parameters.Add("@ProductId", SqlDbType.Int).Value = obj.ProductoId;
 
                 cn.Open();
@@ -79,7 +82,9 @@ namespace App.Dl.DALC
                     SqlCommand cmd = new SqlCommand("SP_GET_Product", cn);
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.CommandTimeout = 700;
+
                     cmd.Parameters.Add("@ProductId", SqlDbType.Int).Value = id;
+
                     cn.Open();
 
                     SqlDataReader dr = cmd.ExecuteReader();
